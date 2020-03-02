@@ -1,7 +1,5 @@
 # PowerShell-Jupyter-Examples
 
-Cloned from https://github.com/TravisEz13/PowerShell-Jupyter-Examples
-
 ## Running All Examples
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfinke/myjupyter/master?urlpath=lab)
